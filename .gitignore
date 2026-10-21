@@ -1,0 +1,7 @@
+
+# Extension
+*.tmp
+
+# Directorios
+
+node_modules/*
