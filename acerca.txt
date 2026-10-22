@@ -1,1 +1,2 @@
 Es un proyecto de prueba para probar las funcionalidades de Git
+version 1.0.0
